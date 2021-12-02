@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Simple Tic-Tac-Toe/task/build/
+/Simple Tic-Tac-Toe/task/out/
+/Simple Tic-Tac-Toe/task/out/production/classes/
+/Topics/Switch statement/Direction/out/
+/Topics/Switch statement/Direction/out/production/classes/

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Tic-Tac-Toe2.Simple_Tic-Tac-Toe-task-build-classes-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe2.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe2.Simple_Tic-Tac-Toe-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe2.Simple_Tic-Tac-Toe-task-build-reports-tests.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe2.Simple_Tic-Tac-Toe-task-build-test-results.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe2.Simple_Tic-Tac-Toe-task-build-tmp.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe2.Simple_Tic-Tac-Toe-task.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe2.Topics-Errors_in_programs-Fix_compile-time_errors.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe2.Topics-Errors_in_programs-Fix_the_program.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe2.Topics-Errors_in_programs-Print_the_age.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe2.Topics-Errors_in_programs-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe2.Topics-Errors_in_programs-What's_wrong.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe2.Topics-Switch_statement-A_simple_calculator.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe2.Topics-Switch_statement-Direction.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe2.Topics-Switch_statement-Harry_Potter.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe2.Topics-Switch_statement-Shape.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe2.Topics-Switch_statement-Test_learners.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe2.Topics-Switch_statement-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe2.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
